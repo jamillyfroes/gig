@@ -307,7 +307,7 @@ class LojaApp:
 
         # Texto sobre a loja
         about_text = """
-        A "God is Good" foi criada pelas irmãs Maite, Jamilly e Raquel Ferreira, que, com corações cheios de fé e paixão, decidiram começar uma jornada para espalhar a palavra de Deus através da moda. 
+        A "God is Good" foi criada pelas irmãs Maite, Jamilly e Raquel Cullen, que, com corações cheios de fé e paixão, decidiram começar uma jornada para espalhar a palavra de Deus através da moda. 
         Em 1920, elas se mudaram para Joinville com um sonho simples: oferecer roupas que não apenas vestissem, mas que também transmitissem valores cristãos.
 
         Com o nome "God is Good", que significa "Deus é bom", a loja nasceu com o propósito de evangelizar e impactar a vida das pessoas de uma maneira única. 
@@ -318,7 +318,7 @@ class LojaApp:
 
         E para levar ainda mais a palavra de Deus a todos os cantos, nossa loja online está disponível, para que você possa vestir sua fé de qualquer lugar com a qualidade e o carinho que sempre entregamos.
     
-        "\n (Mensagem das Criadoras):\n Criar a God is Good foi uma resposta de Deus para o nosso coração. Sabíamos que Ele nos chamava para algo maior, para levar Sua palavra através do que amamos fazer. Cada estampa, cada peça de roupa, é um testemunho de fé e amor. Agradecemos a Deus por nos permitir viver esse sonho." – Maite Ferreira \n Quando começamos, não imaginávamos o impacto que nossas roupas poderiam ter na vida das pessoas. Mas a cada dia, vemos como Deus usa essa loja para tocar corações. É um privilégio ser parte desse propósito. Que cada peça da God is Good seja uma bênção na vida de quem a veste." – Jamilly Ferreira\n A nossa missão nunca mudou: evangelizar, espalhar amor e vestir as pessoas com a palavra de Deus. Estamos aqui para ser uma luz na vida de cada um que entra na nossa loja e carrega nossa mensagem. Deus é bom, e sempre será." – Raquel Ferreira
+        "\n (Mensagem das Criadoras):\n Criar a God is Good foi uma resposta de Deus para o nosso coração. Sabíamos que Ele nos chamava para algo maior, para levar Sua palavra através do que amamos fazer. Cada estampa, cada peça de roupa, é um testemunho de fé e amor. Agradecemos a Deus por nos permitir viver esse sonho." – Maite Cullen \n Quando começamos, não imaginávamos o impacto que nossas roupas poderiam ter na vida das pessoas. Mas a cada dia, vemos como Deus usa essa loja para tocar corações. É um privilégio ser parte desse propósito. Que cada peça da God is Good seja uma bênção na vida de quem a veste." – Jamilly Cullen \n A nossa missão nunca mudou: evangelizar, espalhar amor e vestir as pessoas com a palavra de Deus. Estamos aqui para ser uma luz na vida de cada um que entra na nossa loja e carrega nossa mensagem. Deus é bom, e sempre será." – Raquel Cullen
      """
         
     
